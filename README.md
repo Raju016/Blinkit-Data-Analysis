@@ -76,5 +76,3 @@ The highest sales were from Medium-sized outlets.
 Clean layout with filter panels for item type, outlet size, location type, and fat content.
 
 Bar charts, KPI tiles, and location-based filtering provide an interactive and insightful experience.
-
-Dark-themed design for improved visual contrast and readability.
